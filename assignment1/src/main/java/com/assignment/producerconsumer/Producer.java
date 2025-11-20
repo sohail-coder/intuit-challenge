@@ -1,4 +1,4 @@
-package assignment1.src.main.java.com.assignment.producerconsumer;
+package com.assignment.producerconsumer;
 
 import java.util.List;
 

@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: src.test.java.com.assignment.producerconsumer.ProducerConsumerTest
--------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.27 s - in src.test.java.com.assignment.producerconsumer.ProducerConsumerTest

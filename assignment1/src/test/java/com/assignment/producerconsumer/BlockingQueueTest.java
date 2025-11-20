@@ -1,10 +1,8 @@
-package assignment1.src.test.java.com.assignment.producerconsumer;
+package com.assignment.producerconsumer;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Timeout;
-
-import src.main.java.com.assignment.producerconsumer.BlockingQueue;
 
 import static org.junit.jupiter.api.Assertions.*;
 
