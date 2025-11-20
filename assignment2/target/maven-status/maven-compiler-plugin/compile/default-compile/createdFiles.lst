@@ -1,0 +1,8 @@
+com/example/sales/analysis/SalesAnalyzer$CustomerSpending.class
+com/example/sales/model/SaleRecord.class
+com/example/sales/analysis/SalesAnalyzer$ProductRevenue.class
+com/example/sales/analysis/SalesAnalyzer.class
+com/example/sales/Main.class
+com/example/sales/analysis/SalesAnalyzer$DiscountStats.class
+com/example/sales/csv/SaleRecordLoader.class
+com/example/sales/model/SaleRecord$Builder.class
