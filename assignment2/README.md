@@ -119,6 +119,7 @@ this::netRevenue                                // Function composition
 
 ## Implementation Highlights
 
+- Apache Commons CSV API for parsing CSV files
 - Immutable data model (SaleRecord with Builder pattern)
 - Pure functions throughout (no side effects)
 - Record types for results (ProductRevenue, CustomerSpending, DiscountStats)
